@@ -1,0 +1,20 @@
+Dependencias de Node (Frontend)
+
+/frontend/node_modules
+/frontend/build
+/frontend/dist
+
+Archivos de Django/Python (Backend)
+
+/pycache
+/venv
+/.env
+
+Base de datos local 
+
+db.sqlite3
+
+Logs y otros archivos de entorno
+
+*.log
+.DS_Store
